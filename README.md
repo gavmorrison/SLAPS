@@ -1,7 +1,7 @@
 # Serverless Local Administrator Password Solution (SLAPS)
 
-## New-LocalAdmin.ps1
-Script that needs to be deployed (in SYSTEM context) to Windows 10 Clients.
+## Setup-SLAPSLocalAdmin.ps1
+Script that needs to be deployed in SYSTEM context to Windows 10 Clients.
 
 ## Set-KeyVaultSecret.ps1
 Script for Azure Functions App v2
